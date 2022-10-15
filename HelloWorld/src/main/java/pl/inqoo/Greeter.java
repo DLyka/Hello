@@ -2,6 +2,7 @@ package pl.inqoo;
 
 public class Greeter {
     public static void main(String[] args) {
-        System.out.printf("helo helo helo!");
-    
+        //abija
+        System.out.print("helo helo helo!");
+
 }
